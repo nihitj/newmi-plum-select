@@ -1,0 +1,24 @@
+{
+  "name": "newmi-plum-select",
+  "version": "1.0.0",
+  "description": "Plum Balance+ - Women's hormonal health, powered by Newmi Care",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihitj/newmi-plum-select.git"
+  },
+  "keywords": [
+    "health",
+    "women",
+    "hormonal-health"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihitj/newmi-plum-select/issues"
+  },
+  "homepage": "https://github.com/nihitj/newmi-plum-select#readme"
+}
